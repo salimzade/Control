@@ -1,7 +1,7 @@
 {
     "name": "control-theme",
     "displayName": "Control theme",
-    "description": "Dartk theme for visual studio code",
+    "description": "Dark theme for visual studio code",
     "version": "0.0.1",
     "preview": true,
     "license": "MIT",

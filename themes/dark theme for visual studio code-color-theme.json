@@ -598,25 +598,25 @@
     {
       "scope": "keyword - keyword.operator",
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#FFB300"
       }
     },
     {
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#FFB300"
       }
     },
     {
       "scope": "storage",
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#FFB300"
       }
     },
     {
       "scope": "storage.type",
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#FFB300"
       }
     },
     {
@@ -628,25 +628,25 @@
     {
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#FFB300"
       }
     },
     {
       "scope": "entity.name.class",
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#FFB300"
       }
     },
     {
       "scope": "support.type",
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#FFB300"
       }
     },
     {
       "scope": "support.class",
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#FFB300"
       }
     },
     {
@@ -893,7 +893,7 @@
       "name": "YAML key",
       "scope": "entity.name.tag.yaml",
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#FFB300"
       }
     },
     {
@@ -921,7 +921,7 @@
       "name": "CSS/SCSS global key",
       "scope": ["keyword.other.important", "keyword.other.default"],
       "settings": {
-        "foreground": "#CC7832",
+        "foreground": "#FFB300",
         "fontStyle": ""
       }
     },
@@ -965,14 +965,14 @@
       "name": "CSS tag name",
       "scope": ["entity.name.tag.css"],
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#FFB300"
       }
     },
     {
       "name": "CSS terminator",
       "scope": ["punctuation.terminator.rule.css"],
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#FFB300"
       }
     },
     {
@@ -987,7 +987,7 @@
         "punctuation.definition.entity.end.bracket.square.css"
       ],
       "settings": {
-        "foreground": "#A9B7C6"
+        "foreground": "#c6b2a9"
       }
     },
     {
@@ -1014,7 +1014,7 @@
       "name": "CSS comma",
       "scope": "punctuation.separator.list.comma.css",
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#FFB300"
       }
     },
     {
@@ -1031,7 +1031,7 @@
         "punctuation.definition.heading"
       ],
       "settings": {
-        "foreground": "#CC7832",
+        "foreground": "#FFB300",
         "fontStyle": "bold"
       }
     },

@@ -1,8 +1,8 @@
 {
-    "name": "control-dark-theme",
-    "displayName": "Control dark theme",
+    "name": "control-theme",
+    "displayName": "Control theme",
     "description": "Dark theme for visual studio code",
-    "version": "0.0.3",
+    "version": "0.0.2",
     "preview": true,
     "license": "MIT",
     "icon": "icon.png",
@@ -22,7 +22,7 @@
             {
                 "label": "Control",
                 "uiTheme": "vs-dark",
-                "path": "./themes/control-dark-theme.json"
+                "path": "./themes/dark theme for visual studio code-color-theme.json"
             }
         ]
     }

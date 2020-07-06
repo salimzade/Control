@@ -25,12 +25,12 @@ Adding support for **Fira Code**
 "workbench.colorTheme": "Control"
 ```
 
-![screenshot](https://github.com/salimzade/Control/master/sceenshots/01.PNG)
+![screenshot](https://raw.githubusercontent.com/salimzade/Control/master/sceenshots/01.PNG)
 
-![screenshot2](https://github.com/salimzade/Control/master/sceenshots/02.PNG)
+![screenshot2](https://raw.githubusercontent.com/salimzade/Control/master/sceenshots/02.PNG)
 
-![screenshot3](https://github.com/salimzade/Control/master/sceenshots/03.PNG)
+![screenshot3](https://raw.githubusercontent.com/salimzade/Control/master/sceenshots/03.PNG)
 
-![screenshot3](https://github.com/salimzade/Control/master/sceenshots/04.PNG)
+![screenshot3](https://raw.githubusercontent.com/salimzade/Control/master/sceenshots/04.PNG)
 
-![screenshot3](https://github.com/salimzade/Control/master/sceenshots/05.PNG)
+![screenshot3](https://raw.githubusercontent.com/salimzade/Control/master/sceenshots/05.PNG)

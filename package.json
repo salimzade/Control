@@ -2,7 +2,7 @@
     "name": "control-theme",
     "displayName": "Control theme",
     "description": "Dark theme for visual studio code",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "preview": true,
     "license": "MIT",
     "icon": "icon.png",

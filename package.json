@@ -2,7 +2,7 @@
     "name": "control-theme",
     "displayName": "Control theme",
     "description": "Dark theme for visual studio code",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "preview": true,
     "license": "MIT",
     "icon": "icon.png",
@@ -11,9 +11,9 @@
         "vscode": "^1.46.0"
     },
     "repository": {
-		"type": "git",
-		"url": "https://github.com/salimzade/Control"
-	},
+        "type": "git",
+        "url": "https://github.com/salimzade/Control"
+    },
     "categories": [
         "Themes"
     ],

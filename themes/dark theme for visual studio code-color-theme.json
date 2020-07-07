@@ -162,7 +162,7 @@
       "name": "Character escape",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#36f9f6"
+        "foreground": "#BBDEFB"
       }
     },
     {
@@ -183,7 +183,7 @@
       "name": "HTML or XML tag brackets",
       "scope": ["punctuation.definition.tag"],
       "settings": {
-        "foreground": "#36f9f6"
+        "foreground": "#BBDEFB"
       }
     },
     {
@@ -219,7 +219,7 @@
       "name": "Function",
       "scope": ["entity.name.function", "variable.function"],
       "settings": {
-        "foreground": "#36f9f6"
+        "foreground": "#BBDEFB"
       }
     },
     {
@@ -280,7 +280,7 @@
       "name": "Support function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#36f9f6"
+        "foreground": "#BBDEFB"
       }
     },
     {
@@ -430,7 +430,7 @@
       "name": "Python function call",
       "scope": "meta.function-call.generic.python",
       "settings": {
-        "foreground": "#36f9f6"
+        "foreground": "#BBDEFB"
       }
     },
     {
@@ -521,7 +521,7 @@
         "source.elixir meta.module.elixir entity.name.class.elixir"
       ],
       "settings": {
-        "foreground": "#36f9f6"
+        "foreground": "#BBDEFB"
       }
     },
     {
@@ -538,7 +538,7 @@
         "source.elixir constant.other.keywords.elixir"
       ],
       "settings": {
-        "foreground": "#36f9f6"
+        "foreground": "#BBDEFB"
       }
     },
     {
@@ -572,7 +572,7 @@
         "entity.global.clojure"
       ],
       "settings": {
-        "foreground": "#36f9f6",
+        "foreground": "#BBDEFB",
         "fontStyle": "bold"
       }
     },
@@ -582,7 +582,7 @@
         "storage.control.clojure"
       ],
       "settings": {
-        "foreground": "#36f9f6",
+        "foreground": "#BBDEFB",
         "fontStyle": "italic"
       }
     },
